@@ -1,6 +1,10 @@
-<<<<<<< HEAD
+
+
 masterfile master in develop
 
 asterfile maste
 master in feature1
->>>>>>>ture1
+
+
+feature2 test
+
